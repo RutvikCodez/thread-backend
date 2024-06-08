@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@apollo/server": "^4.10.4",
+    "docker-compose": "^0.24.8",
     "express": "^4.19.2",
     "graphql": "^16.8.1",
     "tsc-watch": "^6.2.0"

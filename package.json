@@ -9,9 +9,13 @@
   },
   "dependencies": {
     "@apollo/server": "^4.10.4",
+    "@prisma/client": "^5.15.0",
+    "@types/node": "^20.14.2",
     "docker-compose": "^0.24.8",
     "express": "^4.19.2",
     "graphql": "^16.8.1",
+    "prisma": "^5.15.0",
+    "ts-node": "^10.9.2",
     "tsc-watch": "^6.2.0"
   },
   "scripts": {
